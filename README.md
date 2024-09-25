@@ -1,20 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Roman+Myhun.;Welcome+to+my+Github!+)](https://git.io/typing-svg)
+<h1 align="center">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Roman+Myhun.;Welcome+to+my+Github!+"  />
+</h1>
+
+
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Roman-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- <img align="center" alt="Romain-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="center" alt="Roman-FastAPI" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Roman-Postgresql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="Roman-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">     
-  <img align="center" alt="Roman-Ubunru" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
-  <img align="center" alt="Roman-Postman" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-  <img align="center" alt="Roman-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Roman-Redis" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-  <img align="center" alt="Roman-Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,ubuntu,postman,git,redis,docker" alt="Skills and tools"/>
+  </a>
 </div><br>
 
 
