@@ -10,7 +10,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,ubuntu,postman,git,redis,docker" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,ubuntu,postman,git,redis,rabbitmq,docker" alt="Skills and tools"/>
   </a>
 </div><br>
 
