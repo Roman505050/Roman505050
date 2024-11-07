@@ -20,7 +20,7 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/Roman505050">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Roman505050&show_icons=true&theme=github_dark&rank_icon=github"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman505050&layout=compact&langs_count=15&theme=github_dark"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roman505050&layout=compact&langs_count=15&theme=github_dark"/>
   </a>
 </div>
     
