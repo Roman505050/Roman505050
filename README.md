@@ -27,7 +27,7 @@
 ### Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BC%D0%B8%D0%B3%D1%83%D0%BD-5b8b60293/" target="_blank">
+  <a href="https://www.linkedin.com/in/roman-myhun-5b8b60293" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="https://t.me/romanmigun" target="_blank">
