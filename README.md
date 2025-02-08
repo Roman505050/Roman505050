@@ -1,7 +1,7 @@
 <div style="width: 100%;">
   <div style="text-align: left;">
     <a href="https://github.com/Roman505050" target="_blank" rel="noopener noreferrer">
-      <img style="transform: scale(0.75); transform-origin: left top;" src="https://u8views.com/api/v1/github/profiles/82759427/views/day-week-month-total-count.svg" alt="Roman Myhun Profile views" />
+      <img style="transform: scale(0.5); transform-origin: left top;" src="https://u8views.com/api/v1/github/profiles/82759427/views/day-week-month-total-count.svg" alt="Roman Myhun Profile views" />
     </a>
   </div>
 
